@@ -2,8 +2,10 @@
   "name": "paper-kit-react",
   "version": "1.2.0",
   "private": true,
+  "homepage": "https://roma-claudio.github.io/test/",
   "dependencies": {
     "classnames": "2.2.6",
+    "gh-pages": "^3.1.0",
     "moment": "2.26.0",
     "node-sass": "4.14.1",
     "nouislider": "14.5.0",
