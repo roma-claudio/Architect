@@ -57,13 +57,13 @@ function LandingPageHeader() {
             <h1>Brand Name</h1>
             <h3>Insert brand mission in this field.</h3>
             <br />
-            <Button className="btn-round mr-5" color="neutral" outline>
+            <Button className="btn-round mr-5" color="neutral" href="/project-page" outline>
               Project 1
             </Button>
-            <Button className="btn-round mr-5" color="neutral" type="button" outline>
+            <Button className="btn-round mr-5" color="neutral" href="/project-page" type="button" outline>
               Project 2
             </Button>
-            <Button className="btn-round" color="neutral" type="button" outline>
+            <Button className="btn-round" color="neutral" href="/project-page" type="button" outline>
               Project 3
             </Button>
           </div>
