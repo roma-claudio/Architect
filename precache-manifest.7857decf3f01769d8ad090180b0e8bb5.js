@@ -1,39 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab86638994029db7909e86e42faa03ed",
+    "revision": "628f8c531a77373d7ac768fc5d6472dd",
     "url": "/test/index.html"
   },
   {
-    "revision": "85ad8f2b91d301182831",
+    "revision": "ad54f5954928c498e932",
     "url": "/test/static/css/main.91bdb7fd.chunk.css"
   },
   {
-    "revision": "43d4642f3b972aa55fb8",
-    "url": "/test/static/js/2.807f4e6a.chunk.js"
+    "revision": "c71acff606df9b2ca044",
+    "url": "/test/static/js/2.344661d8.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/test/static/js/2.807f4e6a.chunk.js.LICENSE.txt"
+    "url": "/test/static/js/2.344661d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85ad8f2b91d301182831",
-    "url": "/test/static/js/main.5bdbee70.chunk.js"
+    "revision": "ad54f5954928c498e932",
+    "url": "/test/static/js/main.30bfc49a.chunk.js"
   },
   {
     "revision": "30f942bb7783c4b076a0017ec0876fab",
-    "url": "/test/static/js/main.5bdbee70.chunk.js.LICENSE.txt"
+    "url": "/test/static/js/main.30bfc49a.chunk.js.LICENSE.txt"
   },
   {
     "revision": "aaa56efb021a30f2bbd1",
     "url": "/test/static/js/runtime-main.8b698261.js"
-  },
-  {
-    "revision": "bfc688ca490f0079051aea5b8ec75cbe",
-    "url": "/test/static/media/ayo-ogunseinde-2.bfc688ca.jpg"
-  },
-  {
-    "revision": "bb4b9ac9fd07e48f86c719495b65341c",
-    "url": "/test/static/media/clem-onojeghuo-2.bb4b9ac9.jpg"
   },
   {
     "revision": "ae11d928aae96245020bb59a1910f758",
@@ -54,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8a26aabcc3fe4dd8289d9f379c9f48c6",
     "url": "/test/static/media/joshua-stannard.8a26aabc.jpg"
-  },
-  {
-    "revision": "be9fa468a029a195601370492c15519d",
-    "url": "/test/static/media/login-image.be9fa468.jpg"
   },
   {
     "revision": "48ac036da7c7923266266f63746fc5f1",
