@@ -72,12 +72,13 @@ function ExamplesNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            to="/index"
             target="_blank"
             title="Coded by Creative Tim"
             tag={Link}
           >
-            Brand Logo
+            <Link to="/">
+              Brand Logo
+            </Link>
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -100,7 +101,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/CreativeTim?ref=creativetim"
+                href="https://twitter.com"
                 target="_blank"
                 title="Follow us on Twitter"
               >
@@ -111,7 +112,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                href="https://www.facebook.com"
                 target="_blank"
                 title="Like us on Facebook"
               >
@@ -122,7 +123,7 @@ function ExamplesNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                href="https://www.instagram.com"
                 target="_blank"
                 title="Follow us on Instagram"
               >

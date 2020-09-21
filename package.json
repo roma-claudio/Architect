@@ -4,19 +4,23 @@
   "private": true,
   "homepage": "https://roma-claudio.github.io/test/",
   "dependencies": {
+    "bundler": "^0.8.0",
     "classnames": "2.2.6",
-    "gh-pages": "^3.1.0",
+    "jekyll": "^3.0.0-beta1",
     "moment": "2.26.0",
-    "node-sass": "4.14.1",
+    "node-sass": "^4.14.1",
     "nouislider": "14.5.0",
     "react": "16.13.1",
     "react-bootstrap-switch": "15.5.3",
     "react-datetime": "2.16.3",
     "react-dom": "16.13.1",
     "react-router": "5.2.0",
-    "react-router-dom": "5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
-    "reactstrap": "8.4.1"
+    "reactstrap": "8.4.1",
+    "ruby": "^0.6.1",
+    "sass": "^1.26.11",
+    "yarn": "^1.22.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -49,6 +53,7 @@
     "typescript": "3.9.5"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8"
   }
